@@ -1,0 +1,2 @@
+THIS IS A PLACE HOLDER (IN THIS SAMPLE) - THE REAL TEAMPLATE WOULD CONTAIN YAML FOR LINTING AND TESTING
+{{ cookiecutter.model_name }} could be used here to get specific files etc.
